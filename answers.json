@@ -1,0 +1,49 @@
+{
+	"exam": {
+		"id": "124",
+		"test_title": "OOP basics",
+		"type": "test"
+	},
+	"answers": [
+		{
+			"question": 1,
+			"answer": "a"
+		},
+		{
+			"question": 2,
+			"answer": "a"
+		},
+		{
+			"question": 3,
+			"answer": "b"
+		},
+		{
+			"question": 4,
+			"answer": "c"
+		},
+		{
+			"question": 5,
+			"answer": "a"
+		},
+		{
+			"question": 6,
+			"answer": "c"
+		},
+		{
+			"question": 7,
+			"answer": "d"
+		},
+		{
+			"question": 8,
+			"answer": "c"
+		},
+		{
+			"question": 9,
+			"answer": "a"
+		},
+		{
+			"question": 10,
+			"answer": "b"
+		}
+	]
+}
